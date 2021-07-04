@@ -8,7 +8,7 @@ I have created a few SQL queries to demonstrate basic SQL functions. Follw the s
 
 ## Data Source
 
-You will find two files in the data folder. Download them onto your computer and import them using SSMS import & export wizard. Alternately, you can right click on a database in SSMS, go to tasks and select import from source
+You will find two files called 'CovidDeaths', 'CovidVaccinations'. Download them onto your computer and import them using SSMS import & export wizard. Alternately, you can right click on a database in SSMS, go to tasks and select import from source
 
 The data was take from https://ourworldindata.org/covid-deaths 
 
